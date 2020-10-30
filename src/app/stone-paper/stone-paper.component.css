@@ -1,0 +1,67 @@
+.pad {
+  padding: 10px;
+}
+.p-l-10 {
+  padding-left: 10px;
+}
+
+.score{
+  margin-top:.5em;
+  margin-left:2em;
+  font-size:1.5em
+}
+p {
+  font-family: Lato;
+}
+.flex-container{
+  display:flex;
+  width:100%;
+}
+
+.flex-center{
+  align-items: center;
+  justify-content: center;
+}
+.fa{
+  cursor:pointer;
+  font-size:5em;
+}
+.selectedWeapon{
+  color: background;
+}
+.bold {
+  font-weight: 5px;
+}
+.background {
+  background-image: url('../../assets/stone-paper-2.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+  height: 100%;
+  width:100%
+}
+.background img {
+  opacity: 50%;
+}
+.height {
+  height: 100%;
+}
+h1{
+  font-size: 8rem;
+  text-align: center;
+  height:30vh;
+  line-height: 30vh;
+  color: #fcedd8;
+   font-family: 'Niconne', cursive;
+  font-weight: 700;
+  text-shadow: 5px 5px 0px #eb452b, 
+              10px 10px 0px #efa032, 
+              15px 15px 0px #46b59b, 
+              20px 20px 0px #017e7f, 
+              25px 25px 0px #052939, 
+              30px 30px 0px #c11a2b, 
+              35px 35px 0px #c11a2b, 
+              40px 40px 0px #c11a2b, 
+              45px 45px 0px #c11a2b;
+}
